@@ -8,9 +8,8 @@ const Hero = () => {
           Discover the Finest Products <br /> in Ethiopia
         </h1>
         <p className="text-center md:text-start">
-          We are very reliable buisness service the most up to data products to
-          our customers with the <br />
-          greatest time etc
+          Discover Ethiopia's finest products, handpicked for quality and
+          craftsmanship. Elevate your lifestyle with our exclusive selection.
         </p>
         <button className="px-12 py-2 bg-blue-500 my-3 text-white mx-auto block md:mx-0">
           Shop Now
