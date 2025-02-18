@@ -1,3 +1,5 @@
+import Image from "next/image"
+
 const Hero = () => {
   return (
     <div className=" w-full h-screen flex items-center px-16 text-black">
@@ -14,7 +16,9 @@ const Hero = () => {
           Shop Now
         </button>
       </div>
-      <div></div>
+      <div className="w-1/2 flex justify-center">
+        <Image src={"/bag.jpg"} alt="Hero Image" width={600} height={600} />
+      </div>
     </div>
   )
 }
