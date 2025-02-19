@@ -81,7 +81,7 @@ export default function Navbar() {
                 : "text-neutral-600"
             }`}
           >
-            About
+            Abouts
           </li>
         </Link>
         <Link
